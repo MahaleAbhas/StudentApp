@@ -1,0 +1,14 @@
+{
+  "Students": [
+    {
+      "id": "85d4",
+      "fname": "abhas",
+      "lname": "Mahale",
+      "dob": "22-may-2001",
+      "gender": "Male",
+      "email": "abhas@gmail.com",
+      "phoneno": "9876543212",
+      "course": "PYTHON"
+    }
+  ]
+}
